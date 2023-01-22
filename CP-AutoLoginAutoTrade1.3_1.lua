@@ -579,7 +579,7 @@ if game.PlaceId == 920587237 then
 end
 -----------------   Trading Done, Exiting
 print("Exited Successfully")
-loadstring(game:HttpGet('https://raw.githubusercontent.com/AggelosLua/adoptm/main/a.lua'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/SamysTesting/tetest/main/CP-AutoLoginAutoTrade1.3_1.lua'))()
 
 
 getgenv().doloop = false
