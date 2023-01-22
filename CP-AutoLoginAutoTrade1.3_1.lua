@@ -12,7 +12,7 @@
 getgenv().doloop = not doloop					---	toggle trade loop, second time is off
 getgenv().ClosePopup = not ClosePopup			---	toggle the Popup Window closing code
 -----------------	Variables that may be changed
-getgenv().rcpt = "Aggelos_Dev"				---	Account name recieving pets
+getgenv().rcpt = "2john009"				---	Account name recieving pets
 local sndr = ""							---	Optional sender, handy if multiple alts on server
 local TrdAge = 6							---	Age of pet to trade (1=newborn..6=adult)
 local SkipAge = false						---	Skip the age check, trade all pets
